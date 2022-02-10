@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int a,b
+
+int main()
+  {
+  printf("Hello skon");
+  return 0;
+  }
+  
